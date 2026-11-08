@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>GM Informática</title>
+  <rect width="64" height="64" rx="18" fill="#153d72"/>
+  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.2">
+    <rect x="12" y="13" width="40" height="29" rx="5"/>
+    <path d="M25 52h14M32 42v10M23 27l6 6 12-13"/>
+  </g>
+</svg>
