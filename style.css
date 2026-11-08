@@ -67,7 +67,7 @@ h1 span,.section-heading h2 span,.contact-copy h2 span{color:var(--blue-2)}
 .eyebrow-line{width:20px;height:1px;background:#5277a0}
 .section-heading h2,.contact-copy h2{font-size:clamp(32px,4vw,43px);line-height:1.2;margin:13px 0 0;max-width:520px}
 .section-heading>p{margin:0 0 5px;color:var(--muted);font-size:14px;max-width:390px;line-height:1.75}
-.services-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px}
+.services-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
 .service-card{position:relative;min-height:220px;padding:21px 19px 24px;border:1px solid var(--line);border-radius:13px;background:#fff;box-shadow:0 4px 15px rgba(29,55,84,.025);transition:transform .22s,box-shadow .22s,border-color .22s;overflow:hidden}
 .service-card:hover{transform:translateY(-4px);box-shadow:var(--shadow);border-color:#d7e2ee}
 .service-icon{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;background:#f0f5fa;color:var(--blue-2);margin-bottom:16px}

@@ -1,7 +1,7 @@
 {
   "name": "GM Informática",
   "short_name": "GM Informática",
-  "description": "Manutenção e suporte técnico para computadores em São Tiago–MG e região.",
+  "description": "Manutenção de computadores e desenvolvimento Web Front-End em São Tiago–MG e região.",
   "start_url": "/GM/",
   "scope": "/GM/",
   "display": "standalone",
